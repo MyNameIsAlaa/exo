@@ -1,0 +1,3 @@
+export const LOAD_MOVIES = 'MOVIES/LOAD'
+export const LOAD_FAVORITE = 'FAVORITE/LOAD'
+export const ADD_FAVORITE = 'FAVORITE/ADD'
